@@ -5,7 +5,7 @@ const bodyParser = require("body-parser");
 
 const app = express();
 
-var items = ["Buy Food", "Cook Food", "Eat Food"];
+var items = ["Improve ASP.net C# programming skills", "Improve Vue programming skills", "Eat Food"];
 
 app.set('view engine', 'ejs');
 
